@@ -5,6 +5,10 @@ h1 {
     color:ghostwhite;
     margin-left: 20px;
 }
+h2 {
+    color: ghostwhite;
+    margin-left: 15px;
+}
 ul{
 list-style-type:none;
 margin:0;
