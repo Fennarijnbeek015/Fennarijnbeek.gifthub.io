@@ -15,6 +15,13 @@ h3 {
     color:ghostwhite;     /*dit is ook een tekstkleur*/
     margin-left: 15px;
 }
+h4 { 
+Color:ghostwhite;
+margin-left: 15px;
+display: inline;
+
+
+}
 ul{
 list-style-type:none;
 margin:0;
