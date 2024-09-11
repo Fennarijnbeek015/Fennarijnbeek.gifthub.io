@@ -28,7 +28,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #7072ad;
+    background-color: #db4e6a;
     border: 0px solid #000000;
   }
   
@@ -41,7 +41,7 @@ ul {
   
   li {
     text-align: center;
-    border-bottom: 1px solid #555;
+    border-bottom: 1px solid #eb3d3d;
   }
   
   li:last-child {
