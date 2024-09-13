@@ -69,7 +69,8 @@ ul {
   
 p {
 background-color:rgb(244, 203, 223);
-
+border:#ffffff 2px;
+border-radius:12px;
 
 
 }
