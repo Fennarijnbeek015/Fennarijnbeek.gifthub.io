@@ -69,11 +69,13 @@ ul {
     border: 2px solid hwb(331 33% 13%);
     border-radius: 12px;
     padding: 5px;
+    background-color:hwb(331 33% 13%); 
   }
   h3.round3 {
     border: 2px solid hwb(331 33% 13%);
     border-radius: 12px;
     padding: 5px;
+    background-color: hwb(331 33% 13%);
   }
   
 p {
