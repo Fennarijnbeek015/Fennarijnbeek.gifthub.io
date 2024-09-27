@@ -49,13 +49,14 @@ li a:hover {
     border-radius: 12px;
     padding: 5px;
     background-color:hsla(331, 75%, 79%, 0.686);
+    width: 60%;
   }
   h3.round3 {
     border: 2px solid hsla(331, 75%, 79%, 0.686);
     border-radius: 12px;
     padding: 5px;
     background-color: hsla(331, 75%, 79%, 0.686);
-    width: 50%;
+    width: 60%;
   }
   
 p {
@@ -64,7 +65,3 @@ border:#ffffff 2px;
 border-radius:12px;
 }
 
-#footer {
-  text-align: center;
-  margin: right 3%;
-}
