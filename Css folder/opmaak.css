@@ -1,17 +1,17 @@
-body {                                      /*dit is de achtergrond kleur*/
+body {                                      /*Dit is de achtergrond kleur van mijn site die elke pagina terug zal komen*/
     background-color: rgb(214, 130, 158);      
 }
 h1 { 
-    color:ghostwhite;            /*dit is de titelkleur*/
+    color:ghostwhite;            /*Dit is de kleur van mijn titel en hoeveel van links de tekst staat.*/
     margin-left: 20px;
 }
 h2 {
-    color: ghostwhite;         /*dit is ook een tekstkleur*/
+    color: ghostwhite;         /*Dit is een tekstkleur van alle stukjes h2 tekst, geld hetzelfde voor h3 en h4.*/
     margin-left: 15px;
 }
 h3 {
   font-size:large; 
-    color:ghostwhite;     /*dit is ook een tekstkleur*/
+    color:ghostwhite;     
     margin-left: 15px;
 }
 h4 { 
@@ -20,7 +20,7 @@ margin-left: 15px;
 width: 30%;
 }
 
-ul {
+ul {                        /*Dit is de kleur van het menu.*/
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -29,7 +29,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: left;       /*Dit hieronder is ook allemaal informatie over het menu*/
 }
 
 li a {
